@@ -5,3 +5,5 @@ if (numero < 1 || numero > 10) {
     while (numero < 1 || numero > 10); {
     }
   }
+  
+alert("Gracias");
